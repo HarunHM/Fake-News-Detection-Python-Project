@@ -12,3 +12,17 @@ The **TfidfVectorizer** converts a collection of raw documents into a matrix of 
 **PassiveAggressiveClassifier.** 
 
 Passive Aggressive algorithms are online learning algorithms. Such an algorithm remains passive for a correct classification outcome, and turns aggressive in the event of a miscalculation, updating and adjusting. Unlike most other algorithms, it does not converge. Its purpose is to make updates that correct the loss, causing very little change in the norm of the weight vector.
+
+
+
+#### Dataset used: 
+
+The dataset  used for this python project is **news.csv**. This dataset has a shape of **7796×4**. The first column identifies the news, the second and third are the title and text, and the fourth column has labels denoting whether the news is REAL or FAKE. The dataset takes up 30MB of space.
+
+#### Python libraries used
+
+Pandas, numpy and sklearn
+
+
+#### The source code 
+Get the all source code in Main.ipynb file
