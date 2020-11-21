@@ -1,6 +1,6 @@
 # Fake News Detection Data Science Project Using Python.
 
-### Importnatnt terms. 
+### Terms Used. 
 
 **TfidfVectorizer.**
 **TF** , short form for, **Term Frequency:** The number of times a word appears in a document is its Term Frequency. A higher value means a term appears more often than others, and so, the document is a good match when the term is part of the search terms.
